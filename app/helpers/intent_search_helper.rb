@@ -1,0 +1,2 @@
+module IntentSearchHelper
+end
